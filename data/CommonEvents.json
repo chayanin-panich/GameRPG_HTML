@@ -1,7 +1,23 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["var data = { studentName: $gameVariables.value(16), chapterName: $gameVariables.value(15), answers: [101,102,103,104,105,106,107,108,109,110].map(id => $gameVariables.value(id) || 0) };"]},{"code":655,"indent":0,"parameters":["fetch(\"https://script.google.com/macros/s/AKfycbyU5GbXsDmFbB9JrgfO90bFBfUrND1QxcDuXMF39K1RTKRwLd3YHhspW6mbplwkGmHB/exec\", { method: \"POST\", mode: \"no-cors\", body: JSON.stringify(data) });"]},{"code":0,"indent":0,"parameters":[]}],"name":"send score","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":355,"indent":0,"parameters":["var data = { studentName: $gameVariables.value(16), chapterName: $gameVariables.value(15), answers: [101,102,103,104,105,106,107,108,109,110].map(id => $gameVariables.value(id) || 0) };"]},{"code":655,"indent":0,"parameters":["fetch(\"https://script.google.com/macros/s/AKfycbzJEGXok3oV4p_HmSnPjLJ74QzYpoHN7KLUuJ_LjL_MAHt_K9yW8YuzhW1wG_IeHvNz/exec\", { method: \"POST\", mode: \"no-cors\", body: JSON.stringify(data) });"]},{"code":0,"indent":0,"parameters":[]}],"name":"sendscore2","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":355,"indent":0,"parameters":["var data = { studentName: $gameVariables.value(16), chapterName: $gameVariables.value(15), answers: [101,102,103,104,105,106,107,108,109,110].map(id => $gameVariables.value(id) || 0) };"]},{"code":655,"indent":0,"parameters":["fetch(\"https://script.google.com/macros/s/AKfycbx7vigs-T99aJVEfhUkFnN-jFFUsTe2KYVQgYFD2oAHvOigoZECNbszcaM3UHWkEXWN/exec\", { method: \"POST\", mode: \"no-cors\", body: JSON.stringify(data) });"]},{"code":0,"indent":0,"parameters":[]}],"name":"sendscore3","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":355,"indent":0,"parameters":["var data = { studentName: $gameVariables.value(16), chapterName: $gameVariables.value(15), answers: [101,102,103,104,105,106,107,108,109,110].map(id => $gameVariables.value(id) || 0) };"]},{"code":655,"indent":0,"parameters":["fetch(\"https://script.google.com/macros/s/AKfycbycMm9orLRlzB5V8Q77pQSSCwJI836jxyH5KTVdjUqQ_Ejm-iqKypXQaW6zgncaf3drHw/exec\", { method: \"POST\", mode: \"no-cors\", body: JSON.stringify(data) });"]},{"code":0,"indent":0,"parameters":[]}],"name":"score4","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":355,"indent":0,"parameters":["var data = { studentName: $gameVariables.value(16), chapterName: $gameVariables.value(15), answers: [101,102,103,104,105,106,107,108,109,110].map(id => $gameVariables.value(id) || 0) };"]},{"code":655,"indent":0,"parameters":["fetch(\"https://script.google.com/macros/s/AKfycbwkCZZILptIuAuONNe4BLs9cd9qRCnx7LsYOgNR2pefnZvxlZYkiMw_OaYrHlrSNJPq/exec\", { method: \"POST\", mode: \"no-cors\", body: JSON.stringify(data) });"]},{"code":0,"indent":0,"parameters":[]}],"name":"scoree5","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":11,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":12,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":13,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":14,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":15,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":16,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":17,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":18,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":19,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":20,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
